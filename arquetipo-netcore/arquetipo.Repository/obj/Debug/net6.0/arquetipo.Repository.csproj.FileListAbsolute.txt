@@ -1,0 +1,100 @@
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.deps.json
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\ref\arquetipo.Repository.dll
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.dll
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.pdb
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.AssemblyReference.cache
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfoInputs.cache
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfo.cs
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CopyComplete
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\ref\arquetipo.Repository.dll
+C:\Users\Cesar Garcia\OneDrive\BancoP\arquetipos_tcs\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.AssemblyReference.cache
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfoInputs.cache
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfo.cs
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.deps.json
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.runtimeconfig.json
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.dll
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.pdb
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CopyComplete
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\refint\arquetipo.Repository.dll
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.genruntimeconfig.cache
+C:\Users\Alex\Downloads\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\ref\arquetipo.Repository.dll
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.deps.json
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.runtimeconfig.json
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.dll
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.pdb
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfo.cs
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CopyComplete
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\refint\arquetipo.Repository.dll
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.genruntimeconfig.cache
+C:\Users\Alex\Documents\Araujo\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\ref\arquetipo.Repository.dll
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfo.cs
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\ref\arquetipo.Repository.dll
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.deps.json
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.runtimeconfig.json
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\ref\arquetipo.Repository.dll
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.dll
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.pdb
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CopyComplete
+C:\Users\user\Downloads\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.genruntimeconfig.cache
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.deps.json
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.runtimeconfig.json
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\ref\arquetipo.Repository.dll
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.dll
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.pdb
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfo.cs
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CopyComplete
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\ref\arquetipo.Repository.dll
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\user\Documents\InicioBancoPichincha\3 Codigo y Base\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.genruntimeconfig.cache
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.deps.json
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.runtimeconfig.json
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\ref\arquetipo.Repository.dll
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.dll
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\bin\Debug\net6.0\arquetipo.Entity.pdb
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.AssemblyInfo.cs
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.csproj.CopyComplete
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.dll
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\ref\arquetipo.Repository.dll
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.pdb
+C:\Users\user\Documents\InicioBancoPichincha\3_CodigoYBase\arquetipo-netcore (1)\arquetipo-netcore\arquetipo.Repository\obj\Debug\net6.0\arquetipo.Repository.genruntimeconfig.cache
